@@ -1,0 +1,7 @@
+{
+  "name": "IonicVideosAppSebastian",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
